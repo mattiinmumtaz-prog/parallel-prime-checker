@@ -5,7 +5,7 @@
 - [Introduction](introduction.md)
 - [Methodology](methodology.md)
 - [Implementation](implementation.md)
-- [Results](results.md)
+- [Results](result.md)
 - [Conclusion](conclusion.md)
 
 ---
