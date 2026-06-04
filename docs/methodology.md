@@ -40,3 +40,6 @@ The speedup value is calculated by dividing the sequential execution time by the
 ## Expected Outcome
 
 The parallel implementation is expected to reduce execution time by distributing workloads across multiple CPU cores and executing them simultaneously.
+
+---
+[← Back to Home](index.md)

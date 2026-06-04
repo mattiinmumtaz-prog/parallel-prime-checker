@@ -1,5 +1,15 @@
 # Parallel Prime Number Checker Using Python Multiprocessing
 
+## Documentation Navigation
+
+- [Introduction](introduction.md)
+- [Methodology](methodology.md)
+- [Implementation](implementation.md)
+- [Results](results.md)
+- [Conclusion](conclusion.md)
+
+---
+
 ## Author
 
 Nama: M. Attiin Mumtaz

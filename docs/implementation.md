@@ -23,3 +23,6 @@ Each process performs prime number checking on its assigned range and returns th
 Execution time is measured for both sequential and parallel implementations.
 
 The resulting execution times are compared to calculate the speedup achieved through parallel processing.
+
+---
+[← Back to Home](index.md)

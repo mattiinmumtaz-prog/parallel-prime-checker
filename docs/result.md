@@ -43,3 +43,6 @@ Although the speedup is not perfectly proportional to the number of CPU cores, t
 - Speedup Achieved: **1.56x**
 
 The parallel implementation successfully reduced execution time and demonstrated the effectiveness of parallel computing using Python Multiprocessing.
+
+---
+[← Back to Home](index.md)

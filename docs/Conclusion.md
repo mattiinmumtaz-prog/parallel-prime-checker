@@ -11,3 +11,6 @@ A total of **41,538 prime numbers** were identified within the specified search 
 The results confirm that distributing workloads across multiple CPU cores can improve computational performance and reduce execution time for CPU-intensive tasks.
 
 Therefore, Python Multiprocessing can be considered an effective approach for implementing parallel computing in computationally demanding applications.
+
+---
+[← Back to Home](index.md)

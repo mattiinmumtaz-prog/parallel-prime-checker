@@ -9,3 +9,6 @@ Prime number searching is considered a computationally intensive task because ea
 This project implements Python Multiprocessing to perform prime number searching using both sequential and parallel approaches. The execution times of both methods are measured and compared to evaluate the performance improvement achieved through parallel processing.
 
 The main objective of this project is to demonstrate the effectiveness of Parallel Computing and analyze the speedup obtained when workloads are distributed across multiple CPU cores.
+
+---
+[← Back to Home](index.md)
